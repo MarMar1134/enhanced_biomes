@@ -1,0 +1,49 @@
+[26feb.2025 20:24:13.425] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\admin\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, enhanced_biomes, --all, --output, D:\Repo GitHub\enhanced_biomes\src\generated\resources, --existing, D:\Repo GitHub\enhanced_biomes\src\main\resources]
+[26feb.2025 20:24:13.425] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.9 by Oracle Corporation; OS Windows 10 arch amd64 version 10.0
+[26feb.2025 20:24:13.617] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[26feb.2025 20:24:13.712] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/admin/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[26feb.2025 20:24:14.389] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\admin\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.3.0\d7ebc62120f202109e300e084ca1a31a7b946a62\javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[26feb.2025 20:24:14.401] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\admin\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.3.0\1bf3e845ea0ce750096da8c71c8364b188ab74d4\lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[26feb.2025 20:24:14.415] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\admin\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.3.0\6093682e943ddccbabf70539319d7f2fe64db2e7\mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[26feb.2025 20:24:14.428] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\admin\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.3.0\3b6be96aba3e323f3c918e8ef6a96312d82d76ad\fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[26feb.2025 20:24:14.564] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[26feb.2025 20:24:17.748] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\admin\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, enhanced_biomes, --all, --output, D:\Repo GitHub\enhanced_biomes\src\generated\resources, --existing, D:\Repo GitHub\enhanced_biomes\src\main\resources]
+[26feb.2025 20:24:18.469] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [enhanced_biomes]
+[26feb.2025 20:24:28.068] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
+[26feb.2025 20:24:28.068] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
+[26feb.2025 20:24:29.742] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/admin/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.3.0_mapped_official_1.20.1/forge-1.20.1-47.3.0_mapped_official_1.20.1.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[26feb.2025 20:24:29.742] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/admin/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.3.0_mapped_official_1.20.1/forge-1.20.1-47.3.0_mapped_official_1.20.1.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[26feb.2025 20:24:30.090] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[26feb.2025 20:24:30.435] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 355 ms
+[26feb.2025 20:24:30.435] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[26feb.2025 20:24:30.549] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 117 ms
+[26feb.2025 20:24:30.549] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: enhanced_biomes
+[26feb.2025 20:24:31.108] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: enhanced_biomes finished after 546 ms
+[26feb.2025 20:24:31.108] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: enhanced_biomes
+[26feb.2025 20:24:31.155] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: enhanced_biomes finished after 54 ms
+[26feb.2025 20:24:31.155] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Registries
+[26feb.2025 20:24:31.202] [main/INFO] [net.minecraft.data.DataGenerator/]: Registries finished after 36 ms
+[26feb.2025 20:24:31.202] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Global Loot Modifiers : enhanced_biomes
+[26feb.2025 20:24:31.202] [main/INFO] [net.minecraft.data.DataGenerator/]: Global Loot Modifiers : enhanced_biomes finished after 6 ms
+[26feb.2025 20:24:31.202] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id enhanced_biomes
+[26feb.2025 20:24:31.249] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id enhanced_biomes finished after 41 ms
+[26feb.2025 20:24:31.249] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id enhanced_biomes
+[26feb.2025 20:24:31.249] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id enhanced_biomes finished after 10 ms
+[26feb.2025 20:24:31.249] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Languages: en_us
+[26feb.2025 20:24:31.265] [main/INFO] [net.minecraft.data.DataGenerator/]: Languages: en_us finished after 4 ms
+[26feb.2025 20:24:31.265] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Languages: es_ar
+[26feb.2025 20:24:31.265] [main/INFO] [net.minecraft.data.DataGenerator/]: Languages: es_ar finished after 11 ms
+[26feb.2025 20:24:31.265] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Languages: es_uy
+[26feb.2025 20:24:31.280] [main/INFO] [net.minecraft.data.DataGenerator/]: Languages: es_uy finished after 4 ms
+[26feb.2025 20:24:31.280] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Languages: es_cl
+[26feb.2025 20:24:31.280] [main/INFO] [net.minecraft.data.DataGenerator/]: Languages: es_cl finished after 1 ms
+[26feb.2025 20:24:31.280] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Languages: es_ec
+[26feb.2025 20:24:31.280] [main/INFO] [net.minecraft.data.DataGenerator/]: Languages: es_ec finished after 2 ms
+[26feb.2025 20:24:31.280] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Languages: es_es
+[26feb.2025 20:24:31.280] [main/INFO] [net.minecraft.data.DataGenerator/]: Languages: es_es finished after 2 ms
+[26feb.2025 20:24:31.280] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Languages: es_mx
+[26feb.2025 20:24:31.280] [main/INFO] [net.minecraft.data.DataGenerator/]: Languages: es_mx finished after 2 ms
+[26feb.2025 20:24:31.296] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Languages: es_ve
+[26feb.2025 20:24:31.296] [main/INFO] [net.minecraft.data.DataGenerator/]: Languages: es_ve finished after 6 ms
+[26feb.2025 20:24:31.296] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 1213 ms
+[26feb.2025 20:24:31.397] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 254, old count: 0, new count: 255, removed stale: 0, written: 254

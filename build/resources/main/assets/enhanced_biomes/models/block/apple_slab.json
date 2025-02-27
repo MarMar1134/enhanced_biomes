@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "enhanced_biomes:block/apple_planks",
+    "side": "enhanced_biomes:block/apple_planks",
+    "top": "enhanced_biomes:block/apple_planks"
+  }
+}

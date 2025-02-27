@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_inventory",
+  "textures": {
+    "texture": "enhanced_biomes:block/walnut_planks"
+  }
+}

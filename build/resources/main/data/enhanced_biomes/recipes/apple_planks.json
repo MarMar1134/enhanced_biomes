@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "tag": "enhanced_biomes:apple_logs"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "enhanced_biomes:apple_planks"
+  }
+}

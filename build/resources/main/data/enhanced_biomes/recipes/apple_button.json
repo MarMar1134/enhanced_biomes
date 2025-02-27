@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "enhanced_biomes:apple_planks"
+    }
+  ],
+  "result": {
+    "item": "enhanced_biomes:apple_button"
+  }
+}

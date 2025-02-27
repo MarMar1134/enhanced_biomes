@@ -1,0 +1,5 @@
+// 1.20.1	2025-02-26T20:24:31.3278693	Tags for minecraft:item mod id enhanced_biomes
+175303ead9be2c6b0c21c42d6e24948ccc384b84 data/enhanced_biomes/tags/items/apple_logs.json
+0291ee4fd2474df11c2b31e1e490392644388196 data/enhanced_biomes/tags/items/walnut_logs.json
+78ecf24c63c0f0295d4909add1f8f4836435384e data/minecraft/tags/items/logs_that_burn.json
+983bcb38b76c1f8f89f58ff246c7be0297d42c49 data/minecraft/tags/items/planks.json

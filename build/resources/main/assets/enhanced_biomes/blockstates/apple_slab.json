@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "enhanced_biomes:block/apple_slab"
+    },
+    "type=double": {
+      "model": "enhanced_biomes:block/apple_planks"
+    },
+    "type=top": {
+      "model": "enhanced_biomes:block/apple_slab_top"
+    }
+  }
+}

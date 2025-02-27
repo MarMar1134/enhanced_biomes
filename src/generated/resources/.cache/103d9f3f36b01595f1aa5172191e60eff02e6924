@@ -1,0 +1,8 @@
+// 1.20.1	2025-02-26T20:24:31.3122382	Registries
+c4fb7b2da6acf49e767f1d0d979fb8ba8b8e1694 data/enhanced_biomes/forge/biome_modifier/add_apple.json
+0807fe61d225058d5906c0d56245614fa138a45b data/enhanced_biomes/forge/biome_modifier/add_walnut.json
+6923d69f97fbea9e7b0a0f76ca678a3a87a236f4 data/enhanced_biomes/worldgen/configured_feature/apple.json
+f480e728ca0284b3e2e4544fdf66e87305b1db0e data/enhanced_biomes/worldgen/configured_feature/green_apple.json
+0c11ef39968515cd3725e99745ebb96ea06aa06d data/enhanced_biomes/worldgen/configured_feature/walnut.json
+a07c88a90ef61d7e6d29fc46a9f37363619ea7ba data/enhanced_biomes/worldgen/placed_feature/apple_placed.json
+7b218ca39e3eae28f24a747b259445ebdfe203fc data/enhanced_biomes/worldgen/placed_feature/walnut_placed.json
